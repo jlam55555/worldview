@@ -11,7 +11,7 @@ let height = canvas.height = window.innerHeight;
 let x = 98, y = 70;
 
 function ElementPosition() {
-	this.landXPos = 0;
+  this.landXPos = 0;
   this.landYPos = 0;
   this.riverXPos = 0;
   this.riverYPos = 0;

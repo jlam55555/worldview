@@ -5,3 +5,8 @@ body, html, canvas {
   margin: 0;
   overflow: hidden;
 }
+
+.canvas {
+    background-repeat: repeat;
+    background-image: url("backgroundImage.jpg");
+}
